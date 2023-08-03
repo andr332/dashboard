@@ -4,11 +4,9 @@ This project is the UI for NetBird's Management service.
 
 **Hosted version:** https://app.netbird.io/
 
-See [NetBird repo](https://github.com/netbirdio/netbird)
-
 ## Why?
 
-The purpose of this project is simple - make it easy to manage VPN built with [NetBird](https://github.com/netbirdio/netbird).
+The purpose of this project is simple - make it easy to manage VPN built with [NetBird].
 The dashboard makes it possible to:
 - track the status of your peers
 - remove peers
